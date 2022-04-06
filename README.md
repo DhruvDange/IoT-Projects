@@ -11,6 +11,14 @@ Items:
 
 3. Stream Deck
 
+Here is a picture of the final control and power board an the room with the items. 
+
+
+![App Screenshot](https://i.ibb.co/nQVKzvr/Whats-App-Image-2022-04-07-at-12-25-22-AM.jpg)
+
+![App Screenshot](https://i.ibb.co/5MNwDWk/Whats-App-Image-2022-04-07-at-12-25-22-AM-1.jpg)
+
+
 
 ## DIY Nano Leaf Panels
 
@@ -69,6 +77,9 @@ An arduino pro micro was used as it can emulate a keyboard when connected to a c
 The keys on the deck were programmed to function as function keys (F13 to F20), which
 are normally not present on a standard keyboard. Thus, these keys can be used as hotkeys
 to perform desired operation.
+
+The housing for the switches and controller were 3D printed as the switches needed 
+precision in placement and had to be tight so as to handle being pressed.
 
 ![App Screenshot](https://i.ibb.co/ZJV1DQR/b01d7643-1317-46eb-a2bf-e771ca11edc7-1.jpg)
 
